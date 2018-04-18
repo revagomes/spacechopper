@@ -1,0 +1,20 @@
+{
+  "name": "SpaceChopper",
+  "version": "1.0.0",
+  "description": "Chopper-ing the universe.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/revagomes/spacechopper.git",
+    "type": "git"
+  },
+  "author": "Reva Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
