@@ -1,11 +1,8 @@
-import Link from 'next/link'
+import Header from '../components/header'
 
 const Index = () => (
     <div>
-      <h1>Space Chopper</h1>
-      <Link href="/about">
-        <button>About</button>
-      </Link>
+      <Header />
     </div>
 )
 
